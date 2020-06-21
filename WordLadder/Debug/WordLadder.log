@@ -1,0 +1,6 @@
+﻿  main.c
+  graph.c
+  Generating Code...
+c:\users\user\documents\visual studio 2015\projects\wordladder\wordladder\graph.c(94): warning C4715: 'Lookup': not all control paths return a value
+  WordLadder.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\WordLadder\Debug\WordLadder.exe
+  WordLadder.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\WordLadder\Debug\WordLadder.pdb (Full PDB)

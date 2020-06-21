@@ -1,0 +1,13 @@
+﻿  avl.c
+  graph.c
+  main.c
+  mymem.c
+  queue.c
+  set.c
+  stack.c
+  timer.c
+  Generating code
+  All 43 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WordLadder.vcxproj -> C:\Users\USER\Desktop\WordLadder\x64\Release\WordLadder.exe
+  WordLadder.vcxproj -> C:\Users\USER\Desktop\WordLadder\x64\Release\WordLadder.pdb (Full PDB)

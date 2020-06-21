@@ -1,0 +1,11 @@
+﻿  stack.c
+  set.c
+  queue.c
+  mymem.c
+  main.c
+  graph.c
+c:\users\user\desktop\wordladder\wordladder\graph.c(44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  avl.c
+  Generating Code...
+  WordLadder.vcxproj -> C:\Users\USER\Desktop\WordLadder\x64\Debug\WordLadder.exe
+  WordLadder.vcxproj -> C:\Users\USER\Desktop\WordLadder\x64\Debug\WordLadder.pdb (Full PDB)
